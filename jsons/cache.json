@@ -1,0 +1,5 @@
+{
+  "enable?": true,
+  "max_age?": 1000,
+  "max_count?": 100
+}

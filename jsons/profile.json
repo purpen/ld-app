@@ -1,0 +1,8 @@
+{
+  "user?": "$user",
+  "token?": "",
+  "last_login?": "",
+  "locale?": "",
+  "app_name?": "",
+  "cache?": "$cache"
+}
